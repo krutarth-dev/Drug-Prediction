@@ -21,4 +21,4 @@ The code defines a function called `activity_prediction` that takes input data, 
 
 ### 5. Deployment:
 The code uses the Streamlit library to create a web-based interface for the drug activity prediction. It allows users to upload a file containing input data, and upon clicking the "Predict" button, the model predicts the activity and displays the result (active or inactive) on the interface.
-https://drug-activity-prediction.streamlit.app/
+https://drug-activity-prediction1.streamlit.app/
